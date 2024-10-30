@@ -18,4 +18,4 @@ This repository contains examples and projects demonstrating fundamental Spring 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spring-learning-project.git
+   git clone https://github.com/Shubham-Patil30/Spring-Annotations.git
